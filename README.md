@@ -12,5 +12,5 @@ Follow game menu to view (1) instructions, (2) play the game, or (3) view credit
 https://editor.p5js.org/bholal1/sketches/CRNH7Onwe
 
 ## Credits
-Code written by Lalima Bhola  
-Images made by Lalima Bhola using Adobe Illustrator.
+Code written and images made by Lalima Bhola  
+(images made through Adobe Illustrator)
