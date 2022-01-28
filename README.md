@@ -1,6 +1,10 @@
 # Jellyfish Mania  
 
-Created in IMM120: Intro to Interactive Computing, where JavaScript was the language in focus
+Created in IMM120: Intro to Interactive Computing, where JavaScript was the language in focus  
+
+## Files
+Code folder: contains all JavaScript, HTML, and CSS code  
+Images: contains images used to make GIFs in the game
 
 ## Usage
 Click triangular button on top of screen to run the program.  
