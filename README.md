@@ -4,7 +4,7 @@ Created in IMM120: Intro to Interactive Computing, where JavaScript was the lang
 
 ## Files
 Code folder: contains all JavaScript, HTML, and CSS code  
-Images: contains images used to make GIFs in the game
+Images: contains .PNG files, where three GIFs were coded in and the rest of the images were used as stills
 
 ## Usage
 Click triangular button on top of screen to run the program.  
